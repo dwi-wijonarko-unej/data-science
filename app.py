@@ -123,5 +123,5 @@ if model is not None and scaler is not None:
 
 else:
     st.info(
-        "ℹ️ Petunjuk Lulus Uji Kompetensi: Jalankan baris kode pengeksportan `.pkl` di Google Colab Anda, unduh filenya, lalu letakkan di folder yang sama dengan file `app.py` ini."
+        "-"
     )
